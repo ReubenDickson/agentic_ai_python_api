@@ -46,7 +46,7 @@ anthropic-ai-app/
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/anthropic-ai-app.git
+   git clone https://github.com/yourusername/agentic_ai_python_api.git
    cd anthropic-ai-app
    ```
 
