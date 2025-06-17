@@ -1,6 +1,6 @@
 # Anthropic AI Python Client
 
-A simple Python application for making API calls to Anthropic's Claude AI. This project serves as a foundation for learning agentic AI applications and demonstrates basic API integration patterns. I built this maily for the purpose of experimenting CICD pipelines for Agentic AI Applications with Python.
+A simple Python application for making API calls to Anthropic's Claude AI. This project serves as a foundation for learning agentic AI applications and demonstrates basic API integration patterns. I built this mainly for the   purpose of experimenting CICD pipelines for Agentic AI Applications with Python.
 
 ## 🚀 Features
 

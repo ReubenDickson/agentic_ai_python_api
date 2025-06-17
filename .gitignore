@@ -11,6 +11,8 @@ venv/
 env/
 ENV/
 .venv
+claude-env/
+claude_env/
 
 # IDE
 .vscode/
